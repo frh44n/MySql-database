@@ -4,13 +4,13 @@ from telegram import Update, Bot
 from telegram.ext import Dispatcher, CommandHandler
 
 # Database credentials
-DB_HOST = 'your_db_host'
-DB_NAME = 'your_db_name'
-DB_USER = 'your_db_user'
-DB_PASSWORD = 'your_db_password'
+DB_HOST = http://sql12.freesqldatabase.com/
+DB_NAME = sql12714230
+DB_USER = sql12714230
+DB_PASSWORD = sT5Ll7ZqBb
 
 # Telegram bot token
-BOT_TOKEN = 'your_bot_token'
+BOT_TOKEN = 7023209368:AAETqTUkY-cGGB_wZ_P7unIC89Awen0Elqw
 
 # Create Flask app
 app = Flask(__name__)
@@ -62,7 +62,7 @@ def webhook():
 
 if __name__ == '__main__':
     # Set the webhook URL
-    webhook_url = 'https://your_domain_or_ngrok_url/webhook'
+    webhook_url = 'https://your_domain_or_ngrok_url/7023209368:AAETqTUkY-cGGB_wZ_P7unIC89Awen0Elqw'
     bot.set_webhook(webhook_url)
     
     # Run the Flask app
