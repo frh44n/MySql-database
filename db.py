@@ -62,7 +62,7 @@ def webhook():
 
 if __name__ == '__main__':
     # Set the webhook URL
-    webhook_url = 'https://your_domain_or_ngrok_url/7023209368:AAETqTUkY-cGGB_wZ_P7unIC89Awen0Elqw'
+    webhook_url = 'https://mysql-database-cb3x.onrender.com/7023209368:AAETqTUkY-cGGB_wZ_P7unIC89Awen0Elqw'
     bot.set_webhook(webhook_url)
     
     # Run the Flask app
