@@ -10,7 +10,7 @@ DB_USER = 'sql12714230'
 DB_PASSWORD = 'sT5Ll7ZqBb'
 
 # Telegram bot token
-BOT_TOKEN = 7023209368:AAETqTUkY-cGGB_wZ_P7unIC89Awen0Elqw
+BOT_TOKEN = '7023209368:AAETqTUkY-cGGB_wZ_P7unIC89Awen0Elqw'
 
 # Create Flask app
 app = Flask(__name__)
